@@ -2,3 +2,5 @@
 
 *もとネタ*  
 http://www.cl.ecei.tohoku.ac.jp/nlp100/
+
+## ＜＜更新停止中＞＞
